@@ -25,3 +25,5 @@ Run the following commands after cloning this repository to demo this on your lo
 $ npm install
 $ ng serve
 ```
+
+Small Update
